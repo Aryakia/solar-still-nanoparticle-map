@@ -35,6 +35,9 @@ https://aryakia.github.io/solar-still-nanoparticle-map/index.html
 
 Mapping uses reported experimental locations where available. Country-level coordinates are used when only a country was reported. Reference numbers open DOI links when available; otherwise, they open Google Scholar searches.
 
-## Author
+## Citation
 
+Kia, A. (2026). Location Mapping Dataset and Interactive Visualization of Nanoparticle-Assisted Solar Still Studies (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20109066
+
+## Author
 Made by Arya Kia.
