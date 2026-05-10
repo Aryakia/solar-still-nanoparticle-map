@@ -31,7 +31,7 @@ https://aryakia.github.io/solar-still-nanoparticle-map/
 - `solar_still_np_mapping_dataset_enhanced.xlsx` — Excel dataset
 - `solar_still_np_location_map_static_world_english_v2.svg` — static map figure
 
-## Method Note
+## Note
 
 Mapping uses reported experimental locations where available. Country-level coordinates are used when only a country was reported. Reference numbers open DOI links when available; otherwise, they open Google Scholar searches.
 
