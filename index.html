@@ -172,7 +172,7 @@
     document.getElementById('downloadCsv').addEventListener('click', () => {
       const blob = new Blob([embeddedCsv], {type:'text/csv;charset=utf-8;'});
       const url = URL.createObjectURL(blob);
-      const a = document.createElement('a'); a.href=url; a.download='solar_still_np_mapping_dataset_enhanced.csv'; document.body.appendChild(a); a.click(); a.remove(); URL.revokeObjectURL(url);
+      const a = document.createElement('a'); a.href=url; a.download='solar_still_np_mapping_dataset.csv'; document.body.appendChild(a); a.click(); a.remove(); URL.revokeObjectURL(url);
     });
     render();
   </script>
