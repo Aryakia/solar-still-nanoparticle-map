@@ -8,7 +8,7 @@ The map visualizes reviewed studies by reported experimental location, nanoparti
 
 The website is published using GitHub Pages:
 
-https://aryakia.github.io/solar-still-nanoparticle-map/
+https://aryakia.github.io/solar-still-nanoparticle-map/index.html
 
 ## Features
 
