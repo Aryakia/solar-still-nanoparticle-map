@@ -29,7 +29,7 @@ https://aryakia.github.io/solar-still-nanoparticle-map/index.html
 
 - `index.html` — main website file
 - `solar_still_np_mapping_dataset_enhanced.xlsx` — Excel dataset
-- `solar_still_np_location_map_static_world_english_v2.svg` — static map figure
+- `solar_still_np_location_map_world_english.svg` — static map figure
 
 ## Note
 
