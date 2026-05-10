@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Location Mapping Dataset and Interactive Visualization of Nanoparticle-Assisted Solar Still Studies"
+message: "If you use this dataset or interactive map, please cite it as below."
+type: dataset
+authors:
+  - family-names: Kia
+    given-names: Arya
+version: "1.0.0"
+date-released: 2026-05-10
+url: "https://aryakia.github.io/solar-still-nanoparticle-map/index.html"
+keywords:
+  - solar still
+  - desalination
+  - nanoparticles
+  - solar desalination
+  - nanofluids
+  - nano-coating
+  - nano-enhanced PCM
+license: "CC-BY-4.0"
+https://doi.org/10.5281/zenodo.20109066
