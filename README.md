@@ -2,7 +2,7 @@
 
 **Interactive research map and dataset for the global literature on nanoparticle-assisted solar still desalination.**
 
-[Launch the interactive map](https://aryakia.github.io/solar-still-nanoparticle-map/index.html) · [Dataset DOI](https://doi.org/10.5281/zenodo.20109066)
+[Launch the interactive map](https://aryakia.github.io/solar-still-nanoparticle-map/index.html) · [Dataset DOI](https://doi.org/10.5281/zenodo.20109066) · [Visual evidence-to-map guide](docs/VISUAL_CASE_STUDY.md) · [Released SVG research map](solar-still-nano-enhanced-map.svg)
 
 **Project type:** Research infrastructure · Data visualization · Evidence mapping  
 **Role:** Creator, researcher, data curator, and visualization developer  
