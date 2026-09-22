@@ -70,7 +70,6 @@ Citation metadata is also available in [`CITATION.cff`](./CITATION.cff).
 ## Author
 
 **Arya Kia**  
-Researcher in energy systems, system dynamics, and applied research visualization.
 
 ---
 
